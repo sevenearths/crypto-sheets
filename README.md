@@ -1,4 +1,4 @@
-![Alt text](/header.png?raw=true "Preview")
+![Alt text](/header.jpeg?raw=true "Preview")
 
 # crypto-sheets
 **NOTE: This project is incomplete. It requires the proper implementation of BIP39 and BIP32 to work properly. If you know how to derive a BIP32 Extended Key from a BIP39 Passphrase please contact me!!!** *(play around with `test_mnemonic.py`)*
