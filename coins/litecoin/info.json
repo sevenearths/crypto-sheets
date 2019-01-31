@@ -1,0 +1,7 @@
+{
+	"parent": "ltc",
+	"wallets": {
+		"apple": "https://itunes.apple.com/us/app/loafwallet/id1119332592?ls=1&mt=8",
+		"android": "https://play.google.com/store/apps/details?id=com.loafwallet"
+	}
+}

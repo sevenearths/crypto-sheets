@@ -10,6 +10,7 @@ freetype-py==2.0.0.post6
 idna==2.8
 moneywagon==1.21.10
 numpy==1.15.4
+pbkdf2==1.3
 Pillow==5.4.0
 pycrypto==2.6.1
 pyparsing==2.3.0

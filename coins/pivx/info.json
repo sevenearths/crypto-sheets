@@ -1,0 +1,7 @@
+{
+	"parent": "pivx",
+	"wallets": {
+		"apple": "https://itunes.apple.com/us/app/pivx/id1447549366",
+		"android": "https://play.google.com/store/apps/details?id=pivx.tech.furszy"
+	}
+}
